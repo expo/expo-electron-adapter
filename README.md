@@ -7,11 +7,6 @@
 
 <p align="center">
     <b>Create Desktop apps with Expo and Electron!</b>
-    <br/>
-    <br/>
-    <a aria-label="Circle CI" href="https://circleci.com/gh/expo/expo-cli/tree/master">
-        <img alt="Circle CI" src="https://flat.badgen.net/circleci/github/expo/expo-cli?label=Circle%20CI&labelColor=555555&icon=circleci">
-    </a>
 </p>
 
 ---
