@@ -1,0 +1,22 @@
+{
+  "include": ["src/**/*.ts"],
+  "compilerOptions": {
+    "outDir": "build",
+    "lib": ["ES2017", "dom"],
+    "rootDir": "src",
+    "declaration": true,
+    "composite": true,
+    "esModuleInterop": true,
+    "inlineSources": true,
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "noImplicitReturns": true,
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "strict": true,
+    "target": "ES2017",
+    "skipLibCheck": true,
+    "typeRoots": ["node_modules/@types"]
+  },
+  "exclude": ["**/__mocks__/*", "**/__tests__/*"]
+}
