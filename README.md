@@ -11,7 +11,7 @@
 
 ---
 
-> Warning: Support for Electron is experimental. Please open an issue at [expo-cli/issues][expo-cli-issues] if you encountered any problems.
+> Warning: This package is no longer maintained.
 
 This package wraps `electron-webpack` and adds support for Expo web and other universal React packages.
 
