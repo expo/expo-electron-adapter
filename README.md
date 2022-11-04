@@ -15,14 +15,9 @@
 
 This package wraps `electron-webpack` and adds support for Expo web and other universal React packages.
 
-## [Documentation][docs]
+## Documentation
 
-To learn more about Electron usage with Expo, check out the docs here: [Using Electron][docs]
-
-### Contributing to the docs
-
-- [Documentation for the master branch][master-docs]
-- [Documentation for the latest stable release][docs]
+To learn more about Electron usage with Expo, check out the blog post: [Making Desktop apps with Electron, React Native, and Expo][docs].
 
 ## License
 
@@ -41,6 +36,5 @@ The Expo source code is made available under the [MIT license](LICENSE). Some of
     </a>
 </p>
 
-[docs]: https://docs.expo.io/guides/using-electron/
-[master-docs]: https://github.com/expo/expo/blob/master/docs/pages/versions/unversioned/guides/using-electron.md
+[docs]: https://dev.to/evanbacon/making-desktop-apps-with-electron-react-native-and-expo-5e36
 [expo-cli-issues]: https://github.com/expo/expo-cli/issues
