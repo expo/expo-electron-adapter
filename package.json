@@ -53,14 +53,14 @@
   },
   "peerDependencies": {
     "@expo/webpack-config": "^0.10.1",
-    "electron": "^6.0.12"
+    "electron": "^22.0.0"
   },
   "dependencies": {
     "@expo/config": "3.3.38",
     "@expo/package-manager": "0.0.41",
     "@expo/spawn-async": "^1.5.0",
     "chalk": "^4.0.0",
-    "electron-webpack": "^2.7.4",
+    "electron-webpack": "^2.8.2",
     "resolve-from": "^5.0.0",
     "typescript": "^4.2.4"
   }
